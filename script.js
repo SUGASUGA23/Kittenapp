@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
           {
             name: 'Oreo',
             description: 'A cute tabby kitten sleeping soundly indoors.',
-            image:
+            image:'https://images.unsplash.com/photo-1529778873920-4da4926a72c2?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGl0dGxlJTIwY2F0fGVufDB8fDB8fHww'
           },
           {
             name: 'Pumpkin',
