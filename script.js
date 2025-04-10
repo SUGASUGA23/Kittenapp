@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
             name: 'Shadow',
             description: 'A Scottish Fold kitten sitting on a comfy sofa indoors.',
             image:'https://cdn.discordapp.com/attachments/1358186564034891988/1359921476471623902/white-cat-breeds-TEASER.jpg?ex=67f93d12&is=67f7eb92&hm=f5d2c3a4f3a2c1678629824a428327147ace553f0877d93137aed409841d09e4&'
-          }
+          },
           {
             name: 'Tiger',
             description: 'An adorable tabby kitten with orange fur looking out a window.',
