@@ -19,8 +19,8 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'https://images.pexels.com/photos/1150116/pexels-photo-1150116.jpeg?cs=srgb&dl=pexels-irina-iriser-1150116.jpg&fm=jpg'
           },
           {
-            name: 'Shadow',
-            description: 'A Scottish Fold kitten sitting on a comfy sofa indoors.',
+            name: 'Light',
+            description: 'A white kitten with ocean blue eyes that can pierce ones soul.',
             image:'https://cdn.discordapp.com/attachments/1358186564034891988/1359921476471623902/white-cat-breeds-TEASER.jpg?ex=67f93d12&is=67f7eb92&hm=f5d2c3a4f3a2c1678629824a428327147ace553f0877d93137aed409841d09e4&'
           },
           {
